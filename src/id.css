@@ -1,0 +1,21 @@
+.id {
+  background-color: #1f2833;
+  overflow: hidden;
+  min-height: 100vh;
+}
+.id h1 {
+  border: 1px solid wheat;
+  color: wheat;
+  background-color: darkslategray;
+  margin-left: 30%;
+  max-width: 500px;
+}
+.inp {
+  margin: 5% 0% 0% 30%;
+  min-width: 500px;
+}
+.tx {
+  margin-top: 4%;
+  margin-left: 40%;
+  margin-bottom: 2%;
+}
